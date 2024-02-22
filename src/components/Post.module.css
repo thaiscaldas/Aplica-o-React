@@ -1,5 +1,5 @@
 .post {
-    background: var(--green-400);
+    background: var(--green-600);
     border-radius: 8px;
     padding: 2.5rem;
 }
@@ -118,4 +118,8 @@
 
 .commentForm button[type=submit]:hover {
     background: var(--green-200);
+}
+
+.commentList{
+    margin-top: 2rem;
 }
